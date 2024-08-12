@@ -33,16 +33,19 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Aprendido en campuslands
-
-
-<a href="https://github.com/Andre230906/Portafolio-Portilla"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre230906&repo=Portafolio-Portilla&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="Portafolio-Portilla"></a>
-<a href="https://github.com/Andre230906/Mysql2_AutoCar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre230906&repo=Mysql2_AutoCar&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="Mysql2_AutoCar"></a>
+## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Proyectos Destacados.
 
 
 
-<a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Andre230906/Mysql2_AutoCar">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre230906&repo=Mysql2_AutoCar&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="AutoCar">
+</a>
+<a href="https://github.com/Andre230906/HoopsPredictor">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre230906&repo=HoopsPredictor&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="HoopsPredictor">
+</a><a href="https://github.com/Apedraza27/PROYECTO_BBDD_PortillaAndres_PedrazaAndres">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Apedraza27&repo=PROYECTO_BBDD_PortillaAndres_PedrazaAndres&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="EcoBalance-MinAmbiente">
+</a>
+
 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
