@@ -20,7 +20,7 @@
 - <img src="https://media.giphy.com/media/k5CSpePpV8GdjxQRfA/giphy.gif" width="25" />&nbsp;&nbsp; Lenguajes: Java/Mysql
 - <img src="https://media.giphy.com/media/ekqKSKYrVvrP6VMwsf/giphy.gif" width="25" />&nbsp;&nbsp; [Hoja de vida](https://www.canva.com/design/DAGJ6QHVci0/V0zx4Yh5msrVzQpQhK4y3A/view?utm_content=DAGJ6QHVci0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR2bTc4dmQ5NGFmeWh6NzR3a2ttdmZpNHVkNzFxeHA1YTBiM2c5OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="25" />&nbsp;&nbsp; Ultimo Proyecto: [Link](https://github.com/Apedraza27/PROYECTO_BBDD_PortillaAndres_PedrazaAndres)
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR2bTc4dmQ5NGFmeWh6NzR3a2ttdmZpNHVkNzFxeHA1YTBiM2c5OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="25" />&nbsp;&nbsp; Ultimo Proyecto: [Link](https://github.com/RubioJuan/Proyecto_JAVA_Rubio-Juan_Portilla-Andres_Mozo-Jorge)
 
 
 
@@ -37,14 +37,15 @@
 
 
 
-<a href="https://github.com/Andre230906/Mysql2_AutoCar">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre230906&repo=Mysql2_AutoCar&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="AutoCar">
+<a href="https://github.com/Apedraza27/PROYECTO_BBDD_PortillaAndres_PedrazaAndres">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Apedraza27&repo=PROYECTO_BBDD_PortillaAndres_PedrazaAndres&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="EcoBalance-MinAmbiente">
 </a>
 <a href="https://github.com/Andre230906/HoopsPredictor">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre230906&repo=HoopsPredictor&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="HoopsPredictor">
-</a><a href="https://github.com/Apedraza27/PROYECTO_BBDD_PortillaAndres_PedrazaAndres">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Apedraza27&repo=PROYECTO_BBDD_PortillaAndres_PedrazaAndres&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="EcoBalance-MinAmbiente">
+</a><a href="https://github.com/RubioJuan/Proyecto_JAVA_Rubio-Juan_Portilla-Andres_Mozo-Jorge">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RubioJuan&repo=Proyecto_JAVA_Rubio-Juan_Portilla-Andres_Mozo-Jorge&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="AnimeExpo">
 </a>
+
 
 
 
